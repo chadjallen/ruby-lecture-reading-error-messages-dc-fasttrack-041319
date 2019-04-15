@@ -1,10 +1,6 @@
-div = 42 / 6
+42 / 6
 
-put div
+42 / 0
 
 
-
-zero = 42 / 0
-
-put div
 
