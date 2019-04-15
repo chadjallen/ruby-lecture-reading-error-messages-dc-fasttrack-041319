@@ -1,3 +1,10 @@
-42 / 6
+div = 42 / 6
 
-42 / 0
+put div
+
+
+
+zero = 42 / 0
+
+put div
+
